@@ -1,7 +1,6 @@
 fastapi
 numpy
 Pillow
-cv2
 uvicorn
 opencv-python
 matplotlib
